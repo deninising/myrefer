@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mysso.iml" filepath="$PROJECT_DIR$/.idea/mysso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysso-client/mysso-client.iml" filepath="$PROJECT_DIR$/mysso-client/mysso-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysso-common/mysso-common.iml" filepath="$PROJECT_DIR$/mysso-common/mysso-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysso-dependencies/mysso-dependencies.iml" filepath="$PROJECT_DIR$/mysso-dependencies/mysso-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysso-domain/mysso-domain.iml" filepath="$PROJECT_DIR$/mysso-domain/mysso-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysso-server/mysso-server.iml" filepath="$PROJECT_DIR$/mysso-server/mysso-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysso-server-commom/mysso-server-commom.iml" filepath="$PROJECT_DIR$/mysso-server-commom/mysso-server-commom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysso-server-redis/mysso-server-redis.iml" filepath="$PROJECT_DIR$/mysso-server-redis/mysso-server-redis.iml" />
+    </modules>
+  </component>
+</project>
